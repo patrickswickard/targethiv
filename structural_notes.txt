@@ -1,0 +1,19 @@
+Sum of years:
+58 + 479 + 156 + 432 + 158 + 559 + 75 + 68 + 38 + 29 + 20 + 14 + 8 + 11 + 3 + 11 + 4 + 5 + 6 + 8 + 5 + 3 + 2 + 1 = 2153
+
+Sum of sources:
+
+222 + 141 + 122 + 113 + 94 + 86 + 74 + 63 + 61 + 54 + 51 + 34 + 20 + 15 + 15 + 12 + 12 + 10 + 10 + 9 + 9 + 9 + 8 + 8 +8 + 8 + 8 +7 + 7 + 6 + 5 + 5 + 5 + 5 + 5 + 4 + 4 + 4 +3 +3 + 3 +3 + 3 + 3 + 3 + 3 + 2 + 2 + 2 + 2 + 2 +2 + 2 + 2 + 46 = 1419 
+
+Sum of Types:
+
+1113 + 461 + 367 + 174 + 149 + 61 + 17 = 2342 = reported number of items
+
+Sum of Topics:
+
+706 + 680 + 548 + 457 + 403 + 350 + 306 + 282 + 256 + 149 + 143 + 132 + 87 = 4499 = twice reported number of items
+
+Conclusions:
+not every item has a source or year
+every item has a type
+every item may be associated with one or (likely) more topics
