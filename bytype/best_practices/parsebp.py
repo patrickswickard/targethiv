@@ -29,7 +29,8 @@ for thisfile in filelist:
     textblob = myinfile.read()
   textblob = ' '.join(textblob.splitlines())
   #print(textblob)
-  resourcere = re.search(r"<div\s+class=\"field__label\"\s*>Resources\s+&amp;\s+Tools\s*</div>\s*(.*?)</div>\s*</div>",textblob)
+  #resourcere = re.search(r"<div\s+class=\"field__label\"\s*>Resources\s+&amp;\s+Tools\s*</div>\s*(.*?)</div>\s*</div>",textblob)
+  resourcere = re.search(r"(.*)",textblob)
   if resourcere:
     resourceblob = resourcere.group(1)
     linklist = re.findall(r"(<a[^>]*href=.*?</a>)",resourceblob)
