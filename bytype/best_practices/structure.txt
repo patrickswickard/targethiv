@@ -1,0 +1,3 @@
+Best Practices tend to have a Resources and Tools section at the bottom which includes links to internal and external sources.
+
+We should document the external sources linked to and mark the internal sources to download and archive.
